@@ -2,7 +2,6 @@
 mdn Django上学的  
 运行:python3 manage.py runserver
 
-
 ·运用Django的工具创建网站和应用的框架。
  ·启动和停止开发用的服务器。
  创建模型（models）用来代表应用里的数据。
